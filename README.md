@@ -77,10 +77,10 @@ Artículo (bastante extenso) sobre los conceptos más avanzados (y complejos) de
 
 ## Preguntas de entrevistas
 
-[List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
-[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
-[Más preguntas y respuestas de JS](https://github.com/lydiahallie/javascript-questions/blob/master/es-ES/README-ES.md)
-[500 ReactJS Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+[List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)<br/>
+[Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)<br/>
+[Más preguntas y respuestas de JS](https://github.com/lydiahallie/javascript-questions/blob/master/es-ES/README-ES.md)<br/>
+[500 ReactJS Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)<br/>
 
 
 
