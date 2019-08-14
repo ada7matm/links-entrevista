@@ -36,6 +36,20 @@ Estrategias, consejos y mejores prácticas para escribir código mantenible
 
 Lista de temas y tecnologías para ir aprendiendo, mejorando y ampliando nuestro conocimiento (Frontend, Backend y DevOps)
 
+## Programacion Orientada a Objetos (OOP)
+
+[What is Object Oriented Programming? Fundamental Concepts of OOP](http://developer-interview.com/p/oop-ood/what-is-object-oriented-programming-fundamental-concepts-of-oop-6)
+
+Wiki con los conceptos básicos y fundamentales de OOP
+
+[An Introduction To Object Oriented Programming in JavaScript](https://www.freecodecamp.org/news/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a/)
+
+Una introducción a la programación orientada a objetos en JS
+
+[OOP in JavaScript What You Need To Know](https://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
+Artículo extenso sobre OOP en JS
+
 ## Algoritmos y estructuras de datos
 
 [BaseCS](https://medium.com/basecs)
