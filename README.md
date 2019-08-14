@@ -3,11 +3,12 @@ Links útiles de temas para seguir indagando y profundizando y que suelen pregun
 # Temas
 1. [Libros](#libros)
 2. [Roadmaps](#roadmaps)
-3. [Algoritmos y estructuras de datos](#algoritmos-y-estructuras-de-datos)
-4. [Desafíos, challenges y ejercicios](#desafíos-challenges-y-ejercicios)
-5. [Conceptos avanzados de JS](#conceptos-avanzados-de-JS)
-6. [Conceptos avanzados de React](#conceptos-avanzados-de-react)
-7. [Conceptos avanzados de React](#preguntas-de-entrevistas)
+3. [Programación Orientada a Objetos (OOP)](#programación-orientada-a-objetos-(oop))
+4. [Algoritmos y estructuras de datos](#algoritmos-y-estructuras-de-datos)
+5. [Desafíos, challenges y ejercicios](#desafíos-challenges-y-ejercicios)
+6. [Conceptos avanzados de JS](#conceptos-avanzados-de-JS)
+7. [Conceptos avanzados de React](#conceptos-avanzados-de-react)
+8. [Preguntas de entrevistas](#preguntas-de-entrevistas)
 
 ## Libros
 
@@ -28,6 +29,9 @@ Técnicas y tips prácticos para mejorar nuestro código
 
 Estrategias, consejos y mejores prácticas para escribir código mantenible
 
+[Atomic Design](http://atomicdesign.bradfrost.com/table-of-contents/)
+
+Metodología (que está ganando tracción) para crear y diseñar interfaces
 
 ## Roadmaps
 
@@ -36,7 +40,7 @@ Estrategias, consejos y mejores prácticas para escribir código mantenible
 
 Lista de temas y tecnologías para ir aprendiendo, mejorando y ampliando nuestro conocimiento (Frontend, Backend y DevOps)
 
-## Programacion Orientada a Objetos (OOP)
+## Programación Orientada a Objetos (OOP)
 
 [What is Object Oriented Programming? Fundamental Concepts of OOP](http://developer-interview.com/p/oop-ood/what-is-object-oriented-programming-fundamental-concepts-of-oop-6)
 
@@ -97,4 +101,16 @@ Artículo (bastante extenso) sobre los conceptos más avanzados (y complejos) de
 [500 ReactJS Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)<br/>
 
 
+### Para agregar
 
+- Base de datos
+- Conceptos de redes (DNS, IPs, etc)
+- Más conceptos avanzados de JS
+- Teoría y funcionamiento interno de React
+- Conceptos avanzados de React
+- Testing
+- Patrones de diseño
+- PWA
+- GraphQL
+- MVC, MVVM
+- Performance
