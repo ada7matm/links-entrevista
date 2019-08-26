@@ -1,18 +1,20 @@
 Links útiles de temas para seguir indagando y profundizando y que suelen preguntar a veces en entrevistas
 
 # Temas
-1. [Libros](#libros)
-2. [Roadmaps](#roadmaps)
-3. [Programación Orientada a Objetos (OOP)](#programación-orientada-a-objetos-(oop))
-4. [Algoritmos y estructuras de datos](#algoritmos-y-estructuras-de-datos)
-5. [Desafíos, challenges y ejercicios](#desafíos-challenges-y-ejercicios)
-6. [Conceptos avanzados de JS](#conceptos-avanzados-de-JS)
-7. [Conceptos avanzados de React](#conceptos-avanzados-de-react)
+1. [📚 Libros](#libros)
+2. [🛣️ Roadmaps](#roadmaps)
+3. [📦 Programación Orientada a Objetos (OOP)](#programación-orientada-a-objetos-(oop))
+4. [👩‍💻 Algoritmos y estructuras de datos](#algoritmos-y-estructuras-de-datos)
+5. [🏋️‍♀️ Desafíos, challenges y ejercicios](#desafíos-challenges-y-ejercicios)
+6. [🧪 Conceptos avanzados de JS](#conceptos-avanzados-de-JS)
+7. [⚗️ Conceptos avanzados de React](#conceptos-avanzados-de-react)
 8. [Preguntas de entrevistas](#preguntas-de-entrevistas)
 
-## Libros
+⭐ (Recomendado)
 
-[You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+## 📚 Libros
+
+⭐ [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 Recomendadísimo libro que explica y se mete en los temas más oscuros y confusos de JS (scope, contexto, hoisting, prototypes, this), explicado de una forma muy amena y llevadera. 
 
@@ -33,16 +35,16 @@ Estrategias, consejos y mejores prácticas para escribir código mantenible
 
 Metodología (que está ganando tracción) para crear y diseñar interfaces
 
-## Roadmaps
+## 🛣️ Roadmaps
 
 [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-[Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#6.27)
+⭐ [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#6.27)
 
 Lista de temas y tecnologías para ir aprendiendo, mejorando y ampliando nuestro conocimiento (Frontend, Backend y DevOps)
 
-## Programación Orientada a Objetos (OOP)
+## 📦 Programación Orientada a Objetos (OOP)
 
-[What is Object Oriented Programming? Fundamental Concepts of OOP](http://developer-interview.com/p/oop-ood/what-is-object-oriented-programming-fundamental-concepts-of-oop-6)
+⭐ [What is Object Oriented Programming? Fundamental Concepts of OOP](http://developer-interview.com/p/oop-ood/what-is-object-oriented-programming-fundamental-concepts-of-oop-6)
 
 Wiki con los conceptos básicos y fundamentales de OOP
 
@@ -54,13 +56,13 @@ Una introducción a la programación orientada a objetos en JS
 
 Artículo extenso sobre OOP en JS
 
-## Algoritmos y estructuras de datos
+## 👩‍💻 Algoritmos y estructuras de datos
 
-[BaseCS](https://medium.com/basecs)
+⭐ [BaseCS](https://medium.com/basecs)
 
 Recomendadísimo blog que explora las bases de las ciencias de la computación (algoritmos y estructura de datos) de súper amena, divertida y gráfica
 
-[The Ultimate Guide To Javascript Algorithms](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
+⭐ [The Ultimate Guide To Javascript Algorithms](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms)
 
 Curso sobre algoritmos en JS
 
@@ -70,9 +72,9 @@ Github con ejemplos en código de algoritmos y estructuras de datos en JS
 
 [Big O cheatsheet](https://www.bigocheatsheet.com/)
 
-## Desafíos, challenges y ejercicios
+## 🏋️‍♀️ Desafíos, challenges y ejercicios
 
-[Best 10 Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
+⭐ [Best 10 Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 
 Listado de páginas con desafíos de programación (la mayoría son muy lógicos, pero del tipo que suelen pedir en algunos lugares). Ideal para mantener la práctica, resolver uno por día es un muy buen entrenamiento.
 
@@ -80,20 +82,20 @@ Listado de páginas con desafíos de programación (la mayoría son muy lógicos
 
 Soluciones de desafíos de algoritmos de la página Leetcode en JS
 
-## Conceptos avanzados de JS
+## 🧪 Conceptos avanzados de JS
 
 [JavaScript Engines: How Do They Even Work? From Call Stack to Promise, (almost) Everything You Need to Know](https://www.valentinog.com/blog/engines/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 Muy interesante explicación del funcionamiento de un motor de JS que abre la cabeza sobre por qué las cosas se ejecutan de la forma en que lo hacen.
 
-[Ultimate Guide To Execution Contexts, Hoisting, Scopes and Closures in JavaScript](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+⭐ [Ultimate Guide To Execution Contexts, Hoisting, Scopes and Closures in JavaScript](https://tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
 
 Artículo (bastante extenso) sobre los conceptos más avanzados (y complejos) de JS
 
-## Conceptos avanzados de React
+## ⚗️ Conceptos avanzados de React
 
 
-## Preguntas de entrevistas
+## ❓ Preguntas de entrevistas
 
 [List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)<br/>
 [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)<br/>
