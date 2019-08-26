@@ -18,7 +18,7 @@ Links útiles de temas para seguir indagando y profundizando y que suelen pregun
 
 ## 📚 Libros
 
-⭐ [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+⭐⭐ [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
 Recomendadísimo libro que explica y se mete en los temas más oscuros y confusos de JS (scope, contexto, hoisting, prototypes, this), explicado de una forma muy amena y llevadera. 
 
@@ -42,7 +42,7 @@ Metodología (que está ganando tracción) para crear y diseñar interfaces
 ## 🛣️ Roadmaps
 
 [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)<br/>
-⭐ [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#6.27)
+⭐⭐ [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2019/#6.27)
 
 Lista de temas y tecnologías para ir aprendiendo, mejorando y ampliando nuestro conocimiento (Frontend, Backend y DevOps)
 
